@@ -94,7 +94,7 @@
   </a>
 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="public/cpp.svg"
+    <img src="public/Cpp.svg"
     alt="cplusplus"
     width="40"
     height="40"/>

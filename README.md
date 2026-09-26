@@ -114,8 +114,6 @@
     <img src="https://wakatime.com/badge/user/250e21cc-a5f3-4982-8f98-93f1ad6dc9ae/project/e51cfe13-5796-4df4-97ed-be5d70c4ee27.svg"
     alt="arduino"/>
   </a>
-  <img src="https://wakatime.com/share/@250e21cc-a5f3-4982-8f98-93f1ad6dc9ae/b68d0cde-cb54-4005-8f77-8cf7e917bdd8.svg"
-    alt="wakatime"
-    width="500"
-    height="150"/>
+  <img src="https://wakatime.com/share/@250e21cc-a5f3-4982-8f98-93f1ad6dc9ae/bb49e998-9a5e-4c04-8170-725874282e75.svg"
+    alt="wakatime"/>
 </p>

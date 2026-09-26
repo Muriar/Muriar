@@ -5,6 +5,7 @@
 ## Kegiatan
 - Sedang Membuat Sebuah Website Portofolio Pribadi 
 - Mengikuti Bootcamp Pelatihan Coding Sampai Bulan Oktober Akhir
+- berkuliah di universitas ...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

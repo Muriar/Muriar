@@ -1,6 +1,6 @@
 <h3 align="center">Haloo!!</h3>
 
- Kenalin namaku MUHAMMAD RIZQI ARSY'ADI, Sering dipanggil rizqi atau kiko juga. Saya adalah seorang Frontend WebDev yang sedang ingin mendalami CyberSecurity ke ranah yang lebih tinggi lagi. Saya memiliki kecenderungan menggabungkan kreativitas seorang desainer dengan teknologi untuk menghasilkan karya yang mampu menyampaikan cerita dan meninggalkan kesan mendalam.
+ Kenalin namaku MUHAMMAD RIZQI ARSY'ADI, Sering dipanggil Rizqi atau kiko juga. Saya adalah seorang Frontend WebDev yang sedang ingin mendalami CyberSecurity ke ranah yang lebih tinggi lagi. Saya memiliki kecenderungan menggabungkan kreativitas seorang desainer dengan teknologi untuk menghasilkan karya yang mampu menyampaikan cerita dan meninggalkan kesan mendalam.
 
 ## Kegiatan
 - Sedang Membuat Sebuah Website Portofolio Pribadi 

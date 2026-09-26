@@ -109,3 +109,5 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muriar&" alt="muriar" /></p>
+
+<p><img align="left" src="[![wakatime](https://wakatime.com/badge/user/250e21cc-a5f3-4982-8f98-93f1ad6dc9ae/project/e51cfe13-5796-4df4-97ed-be5d70c4ee27.svg)](https://wakatime.com/badge/user/250e21cc-a5f3-4982-8f98-93f1ad6dc9ae/project/e51cfe13-5796-4df4-97ed-be5d70c4ee27)" alt="muriar"/></p>
